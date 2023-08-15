@@ -8,7 +8,7 @@
       "category": "men's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-1.png",
       "rating": {
-        "rate": 3.9,
+        "rate": 4,
         "count": 120
       }
     },
@@ -20,7 +20,7 @@
       "category": "men's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-2.png",
       "rating": {
-        "rate": 4.1,
+        "rate": 4,
         "count": 259
       }
     },
@@ -32,7 +32,7 @@
       "category": "men's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-3.png",
       "rating": {
-        "rate": 4.7,
+        "rate": 4,
         "count": 500
       }
     },
@@ -44,7 +44,7 @@
       "category": "men's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-4.png",
       "rating": {
-        "rate": 2.1,
+        "rate": 2,
         "count": 430
       }
     },
@@ -56,7 +56,7 @@
       "category": "jewelery",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-5.png",
       "rating": {
-        "rate": 4.6,
+        "rate": 4,
         "count": 400
       }
     },
@@ -68,7 +68,7 @@
       "category": "jewelery",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-6.png",
       "rating": {
-        "rate": 3.9,
+        "rate": 4,
         "count": 70
       }
     },
@@ -92,7 +92,7 @@
       "category": "jewelery",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-8.png",
       "rating": {
-        "rate": 1.9,
+        "rate": 2,
         "count": 100
       }
     },
@@ -104,7 +104,7 @@
       "category": "electronics",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-9.png",
       "rating": {
-        "rate": 3.3,
+        "rate": 3,
         "count": 203
       }
     },
@@ -116,7 +116,7 @@
       "category": "electronics",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-10.png",
       "rating": {
-        "rate": 2.9,
+        "rate": 3,
         "count": 470
       }
     },
@@ -128,7 +128,7 @@
       "category": "electronics",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-11.png",
       "rating": {
-        "rate": 4.8,
+        "rate": 5,
         "count": 319
       }
     },
@@ -140,7 +140,7 @@
       "category": "electronics",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-12.png",
       "rating": {
-        "rate": 4.8,
+        "rate": 4,
         "count": 400
       }
     },
@@ -152,7 +152,7 @@
       "category": "electronics",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-13.png",
       "rating": {
-        "rate": 2.9,
+        "rate": 3,
         "count": 250
       }
     },
@@ -164,7 +164,7 @@
       "category": "electronics",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-14.png",
       "rating": {
-        "rate": 2.2,
+        "rate": 4,
         "count": 140
       }
     },
@@ -176,7 +176,7 @@
       "category": "women's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-15.png",
       "rating": {
-        "rate": 2.6,
+        "rate": 3,
         "count": 235
       }
     },
@@ -188,7 +188,7 @@
       "category": "women's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-16.png",
       "rating": {
-        "rate": 2.9,
+        "rate": 3,
         "count": 340
       }
     },
@@ -200,7 +200,7 @@
       "category": "women's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-17.png",
       "rating": {
-        "rate": 3.8,
+        "rate": 4,
         "count": 679
       }
     },
@@ -212,7 +212,7 @@
       "category": "women's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-18.png",
       "rating": {
-        "rate": 4.7,
+        "rate": 5,
         "count": 130
       }
     },
@@ -224,7 +224,7 @@
       "category": "women's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-19.png",
       "rating": {
-        "rate": 4.5,
+        "rate": 4,
         "count": 146
       }
     },
@@ -236,7 +236,7 @@
       "category": "women's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-20.png",
       "rating": {
-        "rate": 3.6,
+        "rate": 3,
         "count": 145
       }
     }
