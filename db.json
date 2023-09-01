@@ -2,9 +2,18 @@
   "products": [
     {
       "id": 1,
-      "title": "Mochila Fjällräven Foldsack No. 1, Cabe Notebooks de até 15 polegadas",
-      "price": 519.99,
-      "description": "Sua mochila perfeita para uso diário e caminhadas na floresta. Guarde seu laptop (de até 15 polegadas) no compartimento acolchoado, seus itens do dia a dia.",
+      "title": {
+        "pt": "Mochila Fjällräven Foldsack No. 1, Cabe Notebooks de até 15 polegadas",
+        "en": "Fjällräven Foldsack No. 1 Backpack, Fits Notebooks up to 15 inches."
+      },
+      "price": {
+        "pt": 519.99,
+        "en": 99.99
+      },
+      "description": {
+        "pt": "Sua mochila perfeita para uso diário e caminhadas na floresta. Guarde seu laptop (de até 15 polegadas) no compartimento acolchoado, seus itens do dia a dia.",
+        "en": "Your perfect backpack for daily use and forest hikes. Store your laptop (up to 15 inches) in the padded compartment, along with your everyday essentials."
+      },
       "category": "men's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-1.png",
       "width": 1049,
@@ -16,9 +25,18 @@
     },
     {
       "id": 2,
-      "title": "Camiseta Casual Masculina Slim Premium Fit",
-      "price": 119.99,
-      "description": "Estilo de ajuste slim, mangas compridas raglan em contraste, carcela henley de três botões, tecido leve e macio para vestir com respirabilidade e conforto. E camisetas sólidas costuradas com gola redonda feitas para durabilidade e um ótimo ajuste para uso casual e fãs apaixonados por beisebol. A gola redonda no estilo Henley inclui uma carcela de três botões.",
+      "title": {
+        "pt": "Camiseta Casual Masculina Slim Premium Fit",
+        "en": "Men's Casual Slim Premium Fit T-shirt."
+      },
+      "price": {
+        "pt": 119.99,
+        "en": 24.99
+      },
+      "description": {
+        "pt": "Estilo de ajuste slim, mangas compridas raglan em contraste, carcela henley de três botões, tecido leve e macio para vestir com respirabilidade e conforto. E camisetas sólidas costuradas com gola redonda feitas para durabilidade e um ótimo ajuste para uso casual e fãs apaixonados por beisebol. A gola redonda no estilo Henley inclui uma carcela de três botões.",
+        "en": "Slim fit style, contrasting long raglan sleeves, three-button henley placket, lightweight and soft fabric for breathable comfort. These solid shirts are sewn with a round neckline for durability and a great fit for casual wear and baseball enthusiasts. The Henley-style round neckline includes a three-button placket."
+      },
       "category": "men's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-2.png",
       "width": 663,
@@ -30,9 +48,18 @@
     },
     {
       "id": 3,
-      "title": "Jaqueta Masculina de Algodão",
-      "price": 229.99,
-      "description": "Ótima jaqueta de outerwear para Primavera/Outono/Inverno, adequada para muitas ocasiões, como trabalho, caminhadas, acampamentos, escaladas em montanhas/rochas, ciclismo, viagens ou outras atividades ao ar livre. Boa escolha de presente para você ou um membro da sua família. Um gesto de carinho caloroso para pai, marido ou filho neste Dia de Ação de Graças ou Natal.",
+      "title": {
+        "pt": "Jaqueta Masculina de Algodão",
+        "en": "Cotton Men's Jacket."
+      },
+      "price": {
+        "pt": 229.99,
+        "en": 44.99
+      },
+      "description": {
+        "pt": "Ótima jaqueta de outerwear para Primavera/Outono/Inverno, adequada para muitas ocasiões, como trabalho, caminhadas, acampamentos, escaladas em montanhas/rochas, ciclismo, viagens ou outras atividades ao ar livre. Boa escolha de presente para você ou um membro da sua família. Um gesto de carinho caloroso para pai, marido ou filho neste Dia de Ação de Graças ou Natal.",
+        "en": "Great outerwear jacket for Spring/Fall/Winter, suitable for many occasions such as work, hiking, camping, mountain/rock climbing, cycling, travel, or other outdoor activities. A thoughtful gift choice for yourself or a family member. A warm gesture of love for a father, husband, or son on Thanksgiving or Christmas."
+      },
       "category": "men's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-3.png",
       "width": 679,
@@ -44,9 +71,18 @@
     },
     {
       "id": 4,
-      "title": "Camiseta Slim Fit",
-      "price": 74.99,
-      "description": "A cor pode ser ligeiramente diferente entre a tela e na prática. / Por favor, note que as estruturas corporais variam de pessoa para pessoa, portanto, as informações detalhadas de tamanho devem ser revisadas abaixo na descrição do produto.",
+      "title": {
+        "pt": "Camiseta Slim Fit",
+        "en": "Slim Fit T-shirt."
+      },
+      "price": {
+        "pt": 74.99,
+        "en": 14.99
+      },
+      "description": {
+        "pt": "A cor pode ser ligeiramente diferente entre a tela e na prática. Por favor, note que as estruturas corporais variam de pessoa para pessoa, portanto, as informações detalhadas de tamanho devem ser revisadas abaixo na descrição do produto.",
+        "en": "The color may appear slightly different between the screen and in practice. Please note that body structures vary from person to person, so detailed size information should be reviewed below in the product description."
+      },
       "category": "men's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-4.png",
       "width": 692,
@@ -58,9 +94,18 @@
     },
     {
       "id": 5,
-      "title": "John Hardy Legends Pulseira de Corrente com Estação de Dragão Naga em Ouro e Prata",
-      "price": 3499.99,
-      "description": "Da nossa Coleção Legends, o Naga foi inspirado no dragão mitológico das águas que protege a pérola do oceano. Use virado para dentro para ser agraciado com amor e abundância, ou virado para fora para proteção.",
+      "title": {
+        "pt": "John Hardy Legends Pulseira de Corrente com Estação de Dragão Naga em Ouro e Prata",
+        "en": "John Hardy Legends Dragon Naga Chain Bracelet in Gold and Silver Station."
+      },
+      "price": {
+        "pt": 3499.99,
+        "en": 699.99
+      },
+      "description": {
+        "pt": "Da nossa Coleção Legends, o Naga foi inspirado no dragão mitológico das águas que protege a pérola do oceano. Use virado para dentro para ser agraciado com amor e abundância, ou virado para fora para proteção.",
+        "en": "From our Legends Collection, the Naga was inspired by the mythical water dragon that guards the ocean's pearl. Wear it facing inward to be blessed with love and abundance, or outward for protection."
+      },
       "category": "jewelery",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-5.png",
       "width": 370,
@@ -72,9 +117,18 @@
     },
     {
       "id": 6,
-      "title": "MicroPavé Ouro Maciço ",
-      "price": 1099.99,
-      "description": "Satisfação Garantida. Devolução ou troca de qualquer pedido dentro de 30 dias. Projetado e vendido por Hafeez Center nos Estados Unidos. Satisfação Garantida. Devolução ou troca de qualquer pedido dentro de 30 dias.",
+      "title": {
+        "pt": "MicroPavé Ouro Maciço",
+        "en": "Solid Gold MicroPavé"
+      },
+      "price": {
+        "pt": 1099.99,
+        "en": 219.99
+      },
+      "description": {
+        "pt": "Satisfação Garantida. Devolução ou troca de qualquer pedido dentro de 30 dias. Projetado e vendido por Hafeez Center nos Estados Unidos. Satisfação Garantida. Devolução ou troca de qualquer pedido dentro de 30 dias.",
+        "en": "Satisfaction Guaranteed. Return or exchange any order within 30 days. Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days."
+      },
       "category": "jewelery",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-6.png",
       "width": 640,
@@ -86,9 +140,18 @@
     },
     {
       "id": 7,
-      "title": "Anel Solitário Princess Banhado a Ouro Branco",
-      "price": 49.99,
-      "description": "Anel Clássico de Compromisso de Diamante Solitário Criado para Casamento e Noivado, para ela. Presentes para mimar ainda mais o seu amor em Noivado, Casamento, Aniversário, Dia dos Namorados.",
+      "title": {
+        "pt": "Anel Solitário Princess Banhado a Ouro Branco",
+        "en": "White Gold-Plated Princess Solitaire Ring."
+      },
+      "price": {
+        "pt": 49.99,
+        "en": 9.99
+      },
+      "description": {
+        "pt": "Anel Clássico de Compromisso de Diamante Solitário Criado para Casamento e Noivado, para ela. Presentes para mimar ainda mais o seu amor em Noivado, Casamento, Aniversário, Dia dos Namorados.",
+        "en": "Classic Diamond Solitaire Engagement Ring, created for weddings and engagements, for her. Gifts to pamper your love even more on Engagement, Wedding, Anniversary, Valentine's Day."
+      },
       "category": "jewelery",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-7.png",
       "width": 540,
@@ -100,9 +163,18 @@
     },
     {
       "id": 8,
-      "title": "Brincos Banhados a Ouro Rosa",
-      "price": 59.99,
-      "description": "Brincos de Túnel Duplo Flare Banhados a Ouro Rosa. Feitos de Aço Inoxidável 316L.",
+      "title": {
+        "pt": "Brincos Banhados a Ouro Rosa",
+        "en": "Rose Gold-Plated Earrings."
+      },
+      "price": {
+        "pt": 59.99,
+        "en": 11.99
+      },
+      "description": {
+        "pt": "Brincos de Túnel Duplo Flare Banhados a Ouro Rosa. Feitos de Aço Inoxidável 316L.",
+        "en": "Rose Gold-Plated Double Flare Tunnel Earrings. Made from 316L Stainless Steel."
+      },
       "category": "jewelery",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-8.png",
       "width": 640,
@@ -114,9 +186,18 @@
     },
     {
       "id": 9,
-      "title": "HD 2TB Elements WD - USB 3.0 ",
-      "price": 339.99,
-      "description": "Compatibilidade USB 3.0 e USB 2.0 Transferências rápidas de dados Melhora o Desempenho do PC Alta Capacidade; Compatibilidade Formatado em NTFS para Windows 10, Windows 8.1, Windows 7; Pode ser necessário reformatar para outros sistemas operacionais; A compatibilidade pode variar dependendo da configuração de hardware e sistema operacional do usuário.",
+      "title": {
+        "pt": "HD 2TB Elements WD - USB 3.0",
+        "en": "2TB WD Elements External Hard Drive - USB 3.0"
+      },
+      "price": {
+        "pt": 339.99,
+        "en": 69.99
+      },
+      "description": {
+        "pt": "Compatibilidade USB 3.0 e USB 2.0 Transferências rápidas de dados Melhora o Desempenho do PC Alta Capacidade; Compatibilidade Formatado em NTFS para Windows 10, Windows 8.1, Windows 7; Pode ser necessário reformatar para outros sistemas operacionais; A compatibilidade pode variar dependendo da configuração de hardware e sistema operacional do usuário.",
+        "en": "Compatibility: USB 3.0 and USB 2.0 for fast data transfers. Boosts PC performance. High capacity. Compatibility: Formatted in NTFS for Windows 10, Windows 8.1, Windows 7; reformatting may be required for other operating systems; compatibility may vary depending on user's hardware and operating system configuration."
+      },
       "category": "electronics",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-9.png",
       "width": 653,
@@ -128,9 +209,18 @@
     },
     {
       "id": 10,
-      "title": "SSD 1TB PLUS SanDisk SSD Interno - SATA III 6 Gb/s",
-      "price": 559.99,
-      "description": "Atualização fácil para inicializações mais rápidas, desligamentos, carregamento de aplicativos e resposta (em comparação com um disco rígido SATA 2.5 de 5400 RPM; Com base em especificações publicadas e testes internos de benchmarking usando pontuações do PCMark Vantage) Aumenta o desempenho de escrita em rajadas, tornando-o ideal para cargas de trabalho típicas de PC O equilíbrio perfeito entre desempenho e confiabilidade Velocidades de leitura/escrita de até 535MB/s/450MB/s (Com base em testes internos; O desempenho pode variar dependendo da capacidade do disco, dispositivo hospedeiro, sistema operacional e aplicativo).",
+      "title": {
+        "pt": "SSD 1TB PLUS SanDisk SSD Interno - SATA III 6 Gb/s",
+        "en": "SSD 1TB SanDisk PLUS Internal - SATA III 6 Gb/s."
+      },
+      "price": {
+        "pt": 559.99,
+        "en": 111.99
+      },
+      "description": {
+        "pt": "Atualização fácil para inicializações mais rápidas, desligamentos, carregamento de aplicativos e resposta (em comparação com um disco rígido SATA 2.5 de 5400 RPM; Com base em especificações publicadas e testes internos de benchmarking usando pontuações do PCMark Vantage) Aumenta o desempenho de escrita em rajadas, tornando-o ideal para cargas de trabalho típicas de PC O equilíbrio perfeito entre desempenho e confiabilidade Velocidades de leitura/escrita de até 535MB/s/450MB/s (Com base em testes internos; O desempenho pode variar dependendo da capacidade do disco, dispositivo hospedeiro, sistema operacional e aplicativo).",
+        "en": "Easy upgrade for faster boot-ups, shutdowns, app loading, and response (compared to a 5400 RPM 2.5-inch SATA hard drive; Based on published specs and internal benchmarking tests using PCMark Vantage scores). Enhances burst write performance, making it ideal for typical PC workloads. The perfect balance between performance and reliability. Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; performance may vary depending on drive capacity, host device, OS, and application)."
+      },
       "category": "electronics",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-10.png",
       "width": 679,
@@ -142,9 +232,18 @@
     },
     {
       "id": 11,
-      "title": "256GB SSD 3D NAND A55 Silicon Power com Cache SLC para Melhoria de Desempenho - SATA III 2.5",
-      "price": 569.99,
-      "description": "A tecnologia flash 3D NAND é aplicada para fornecer altas velocidades de transferência. Velocidades de transferência impressionantes que possibilitam inicializações mais rápidas e melhor desempenho geral do sistema. A avançada Tecnologia de Cache SLC permite um aumento de desempenho e maior vida útil. Design fino de 7mm adequado para Ultrabooks e notebooks ultrafinos. Suporta o comando TRIM, tecnologia de Coleta de Lixo, RAID e ECC (verificação e correção de erros) para proporcionar desempenho otimizado e maior confiabilidade.",
+      "title": {
+        "pt": "256GB SSD 3D NAND A55 Silicon Power com Cache SLC para Melhoria de Desempenho - SATA III 2.5",
+        "en": "256GB SSD A55 Silicon Power 3D NAND with SLC Cache for Performance Enhancement - SATA III 2.5-inch."
+      },
+      "price": {
+        "pt": 569.99,
+        "en": 114.99
+      },
+      "description": {
+        "pt": "A tecnologia flash 3D NAND é aplicada para fornecer altas velocidades de transferência. Velocidades de transferência impressionantes que possibilitam inicializações mais rápidas e melhor desempenho geral do sistema. A avançada Tecnologia de Cache SLC permite um aumento de desempenho e maior vida útil. Design fino de 7mm adequado para Ultrabooks e notebooks ultrafinos. Suporta o comando TRIM, tecnologia de Coleta de Lixo, RAID e ECC (verificação e correção de erros) para proporcionar desempenho otimizado e maior confiabilidade.",
+        "en": "3D NAND flash technology is applied to provide high transfer speeds. Impressive transfer speeds enable faster boot-ups and overall system performance. Advanced SLC Cache Technology allows for performance enhancement and extended lifespan. Slim 7mm design suitable for Ultrabooks and ultra-thin notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Correction Code) for optimized performance and increased reliability."
+      },
       "category": "electronics",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-11.png",
       "width": 679,
@@ -156,9 +255,18 @@
     },
     {
       "id": 12,
-      "title": "HD 4TB WD Gaming Drive Funciona com o Playstation 4",
-      "price": 619.99,
-      "description": "Expanda sua experiência de jogo no PS4, Jogue em qualquer lugar, Configuração rápida e fácil, Design elegante com alta capacidade, Garantia limitada do fabricante de 3 anos.",
+      "title": {
+        "pt": "HD 4TB WD Gaming Drive Funciona com o Playstation 4",
+        "en": "4TB HD WD Gaming Drive - Compatible with PlayStation 4."
+      },
+      "price": {
+        "pt": 619.99,
+        "en": 124.99
+      },
+      "description": {
+        "pt": "Expanda sua experiência de jogo no PS4, Jogue em qualquer lugar, Configuração rápida e fácil, Design elegante com alta capacidade, Garantia limitada do fabricante de 3 anos.",
+        "en": "Expand your gaming experience on PS4, Play anywhere, Quick and easy setup, Stylish design with high capacity, 3-year limited manufacturer's warranty."
+      },
       "category": "electronics",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-12.png",
       "width": 644,
@@ -170,9 +278,18 @@
     },
     {
       "id": 13,
-      "title": "Monitor Acer SB220Q bi 21.5 polegadas Full HD (1920 x 1080) IPS Ultra Fino",
-      "price": 2899.99,
-      "description": "Tela widescreen IPS de 21,5 polegadas Full HD (1920 x 1080) E tecnologia Radeon FreeSync. Sem compatibilidade para montagem VESA Taxa de atualização: 75Hz - Usando porta HDMI Design de moldura zero | ultrafino | tempo de resposta de 4ms | Painel IPS Proporção de aspecto - 16:9. Cores suportadas - 16,7 milhões de cores. Brilho - 250 nit Ângulo de inclinação -5 graus a 15 graus. Ângulo de visão horizontal - 178 graus. Ângulo de visão vertical - 178 graus Taxa de atualização de 75 hertz.",
+      "title": {
+        "pt": "Monitor Acer SB220Q bi 21.5 polegadas Full HD (1920 x 1080) IPS Ultra Fino",
+        "en": "Acer SB220Q bi 21.5-inch Full HD (1920 x 1080) IPS Ultra-Thin Monitor."
+      },
+      "price": {
+        "pt": 2899.99,
+        "en": 579.99
+      },
+      "description": {
+        "pt": "Tela widescreen IPS de 21,5 polegadas Full HD (1920 x 1080) E tecnologia Radeon FreeSync. Sem compatibilidade para montagem VESA Taxa de atualização: 75Hz - Usando porta HDMI Design de moldura zero | ultrafino | tempo de resposta de 4ms | Painel IPS Proporção de aspecto - 16:9. Cores suportadas - 16,7 milhões de cores. Brilho - 250 nit Ângulo de inclinação -5 graus a 15 graus. Ângulo de visão horizontal - 178 graus. Ângulo de visão vertical - 178 graus Taxa de atualização de 75 hertz.",
+        "en": "21.5-inch Full HD (1920 x 1080) IPS widescreen display with Radeon FreeSync technology. Not VESA mount compatible. Refresh rate: 75Hz - Using HDMI port. Zero frame design | Ultra-thin | 4ms response time | IPS panel Aspect ratio - 16:9. Supported colors - 16.7 million colors. Brightness - 250 nits. Tilt angle -5 degrees to 15 degrees. Horizontal viewing angle - 178 degrees. Vertical viewing angle - 178 degrees. 75 hertz refresh rate."
+      },
       "category": "electronics",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-13.png",
       "width": 679,
@@ -184,9 +301,18 @@
     },
     {
       "id": 14,
-      "title": "Monitor Gamer Curvo Samsung CHG90 de 49 polegadas, 144Hz (LC49HG90DMNXZA) - Tela Super Ultrawide QLED",
-      "price": 4799.99,
-      "description": "Monitor de Jogos Curvo Super Ultrawide de 49 polegadas (32:9) com dois monitores de 27 polegadas lado a lado. Tecnologia Quantum Dot (QLED), suporte a HDR e calibração de fábrica fornecem cores e contraste incrivelmente realistas e precisos. Taxa de atualização alta de 144Hz e tempo de resposta ultrarrápido de 1ms trabalham para eliminar o desfoque de movimento, fantasmas e reduzir a latência de entrada.",
+      "title": {
+        "pt": "Monitor Gamer Curvo Samsung CHG90 de 49 polegadas, 144Hz (LC49HG90DMNXZA) - Tela Super Ultrawide QLED",
+        "en": "Gaming Monitor Samsung CHG90 49-inch Curved, 144Hz (LC49HG90DMNXZA) - Super Ultrawide QLED Screen."
+      },
+      "price": {
+        "pt": 4799.99,
+        "en": 959.99
+      },
+      "description": {
+        "pt": "Monitor de Jogos Curvo Super Ultrawide de 49 polegadas (32:9) com dois monitores de 27 polegadas lado a lado. Tecnologia Quantum Dot (QLED), suporte a HDR e calibração de fábrica fornecem cores e contraste incrivelmente realistas e precisos. Taxa de atualização alta de 144Hz e tempo de resposta ultrarrápido de 1ms trabalham para eliminar o desfoque de movimento, fantasmas e reduzir a latência de entrada.",
+        "en": "49-inch Super Ultrawide (32:9) Curved Gaming Monitor with two 27-inch monitors side by side. Quantum Dot (QLED) technology, HDR support, and factory calibration provide incredibly realistic and accurate colors and contrast. High 144Hz refresh rate and ultra-fast 1ms response time work to eliminate motion blur, ghosting, and reduce input latency."
+      },
       "category": "electronics",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-14.png",
       "width": 679,
@@ -198,9 +324,18 @@
     },
     {
       "id": 15,
-      "title": "Casaco BIYLACLESEN Feminino de Inverno 3 em 1 para Snowboard",
-      "price": 269.99,
-      "description": "Tecido 100% poliéster; Forro destacável: Fleece Quente. Forro destacável funcional: Amigo da pele, leve e quente. Casaco com gola alta destacável, mantém você aquecido em climas frios. Bolsos com zíper: 2 bolsos de mão com zíper, 2 bolsos com zíper no peito (suficientemente espaçosos para cartões ou chaves) e 1 bolso interno escondido. Bolsos com zíper de mão e bolso escondido mantêm seus pertences seguros. Design humanizado: Capuz ajustável e destacável e punhos ajustáveis para evitar vento e água, proporcionando um ajuste confortável. Design destacável 3 em 1 oferece mais conveniência, você pode separar o casaco e o forro conforme necessário, ou usá-los juntos. Adequado para diferentes estações e ajuda você a se adaptar a diferentes climas.",
+      "title": {
+        "pt": "Casaco BIYLACLESEN Feminino de Inverno 3 em 1 para Snowboard",
+        "en": "BIYLACLESEN Jacket Women's 3-in-1 Winter for Snowboarding."
+      },
+      "price": {
+        "pt": 269.99,
+        "en": 54.99
+      },
+      "description": {
+        "pt": "Tecido 100% poliéster; Forro destacável: Fleece Quente. Forro destacável funcional: Amigo da pele, leve e quente. Casaco com gola alta destacável, mantém você aquecido em climas frios. Bolsos com zíper: 2 bolsos de mão com zíper, 2 bolsos com zíper no peito (suficientemente espaçosos para cartões ou chaves) e 1 bolso interno escondido. Bolsos com zíper de mão e bolso escondido mantêm seus pertences seguros. Design humanizado: Capuz ajustável e destacável e punhos ajustáveis para evitar vento e água, proporcionando um ajuste confortável. Design destacável 3 em 1 oferece mais conveniência, você pode separar o casaco e o forro conforme necessário, ou usá-los juntos. Adequado para diferentes estações e ajuda você a se adaptar a diferentes climas.",
+        "en": "Fabric: 100% polyester; Detachable lining: Warm fleece. Functional detachable lining: Skin-friendly, lightweight, and warm. Jacket with detachable high collar to keep you warm in cold weather. Zip pockets: 2 zip hand pockets, 2 zip chest pockets (spacious enough for cards or keys), and 1 hidden internal pocket. Hand zip pockets and hidden pocket keep your belongings safe. Humanized design: Adjustable and detachable hood and adjustable cuffs to prevent wind and water, providing a comfortable fit. 3-in-1 detachable design offers more convenience; you can separate the jacket and lining as needed or wear them together. Suitable for different seasons and helps you adapt to different weather conditions."
+      },
       "category": "women's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-15.png",
       "width": 679,
@@ -212,9 +347,18 @@
     },
     {
       "id": 16,
-      "title": "Casaco LOCK&LOVE Feminino de Moto Biker com Capuz Removível",
-      "price": 159.99,
-      "description": "Material 100% POLIURETANO (exterior) 100% POLIÉSTER (forro) 75% POLIÉSTER 25% ALGODÃO (BLUSÃO), Material falso de couro para estilo e conforto / 2 bolsos na frente, Jaqueta de couro falso estilo moletom com capuz 2 em 1, Detalhe de botão na cintura / Costura de detalhe nas laterais, LAVAR À MÃO SOMENTE / NÃO USAR ALVEJANTE / SECAR EM VARAL / NÃO PASSAR.",
+      "title": {
+        "pt": "Casaco LOCK&LOVE Feminino de Moto Biker com Capuz Removível",
+        "en": "LOCK&LOVE Women's Moto Biker Jacket with Removable Hood."
+      },
+      "price": {
+        "pt": 159.99,
+        "en": 32.99
+      },
+      "description": {
+        "pt": "Material 100% POLIURETANO (exterior) 100% POLIÉSTER (forro) 75% POLIÉSTER 25% ALGODÃO (BLUSÃO), Material falso de couro para estilo e conforto / 2 bolsos na frente, Jaqueta de couro falso estilo moletom com capuz 2 em 1, Detalhe de botão na cintura / Costura de detalhe nas laterais, LAVAR À MÃO SOMENTE / NÃO USAR ALVEJANTE / SECAR EM VARAL / NÃO PASSAR.",
+        "en": "Material: 100% POLYURETHANE (exterior) 100% POLYESTER (lining) 75% POLYESTER 25% COTTON (hoodie), Faux leather material for style and comfort / 2 front pockets, 2-in-1 faux leather jacket with hoodie, Button detail at the waist / Side detail stitching, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON."
+      },
       "category": "women's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-16.png",
       "width": 601,
@@ -226,9 +370,18 @@
     },
     {
       "id": 17,
-      "title": "Jaqueta Chuva Feminina Corta-Vento Listrada para Escalada",
-      "price": 199.99,
-      "description": "Leve, perfeita para viagens ou uso casual. Manga longa com capuz, design de cintura ajustável com cordão. Capa de chuva com fecho frontal de botão e zíper, totalmente forrada com listras. A capa de chuva possui 2 bolsos laterais de bom tamanho para guardar todo tipo de coisas, cobre os quadris, e o capuz é generoso mas não exagerado. Capuz forrado de algodão acoplado com cordões ajustáveis para um visual elegante.",
+      "title": {
+        "pt": "Jaqueta Chuva Feminina Corta-Vento Listrada para Escalada",
+        "en": "Rain Jacket Women's Striped Windbreaker for Climbing."
+      },
+      "price": {
+        "pt": 199.99,
+        "en": 39.99
+      },
+      "description": {
+        "pt": "Leve, perfeita para viagens ou uso casual. Manga longa com capuz, design de cintura ajustável com cordão. Capa de chuva com fecho frontal de botão e zíper, totalmente forrada com listras. A capa de chuva possui 2 bolsos laterais de bom tamanho para guardar todo tipo de coisas, cobre os quadris, e o capuz é generoso mas não exagerado. Capuz forrado de algodão acoplado com cordões ajustáveis para um visual elegante.",
+        "en": "Leve, perfeita para viagens ou uso casual. Manga longa com capuz, design de cintura ajustável com cordão. Capa de chuva com fecho frontal de botão e zíper, totalmente forrada com listras. A capa de chuva possui 2 bolsos laterais de bom tamanho para guardar todo tipo de coisas, cobre os quadris, e o capuz é generoso mas não exagerado. Capuz forrado de algodão acoplado com cordões ajustáveis para um visual elegante."
+      },
       "category": "women's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-17.png",
       "width": 526,
@@ -240,9 +393,18 @@
     },
     {
       "id": 18,
-      "title": "Blusa MBJ Feminina de Barco de Manga Curta Sólida",
-      "price": 54.99,
-      "description": "95% RAIOM 5% ELASTANO, Fabricado nos EUA ou Importado, Não utilizar alvejante, Tecido leve com grande elasticidade para conforto, Com nervuras nas mangas e gola / Costura dupla na bainha inferior.",
+      "title": {
+        "pt": "Blusa MBJ Feminina de Barco de Manga Curta Sólida",
+        "en": "MBJ Women's Solid Short Sleeve Boat Neck Top."
+      },
+      "price": {
+        "pt": 54.99,
+        "en": 10.99
+      },
+      "description": {
+        "pt": "95% RAIOM 5% ELASTANO, Fabricado nos EUA ou Importado, Não utilizar alvejante, Tecido leve com grande elasticidade para conforto, Com nervuras nas mangas e gola / Costura dupla na bainha inferior.",
+        "en": "95% RAYON 5% ELASTANE, Made in the USA or Imported, Do not bleach, Lightweight fabric with significant stretch for comfort, Ribbed sleeves and neckline / Double stitching on the bottom hem."
+      },
       "category": "women's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-18.png",
       "width": 692,
@@ -254,9 +416,18 @@
     },
     {
       "id": 19,
-      "title": "Camiseta Opna Feminina de Manga Curta com Controle de Umidade",
-      "price": 34.99,
-      "description": "100% Poliéster, Lavagem à máquina, 100% poliéster entrelaçado catiônico, Lavagem à máquina e pré-encolhido para um ótimo ajuste, Tecido leve, espaçoso e altamente respirável com tecido que absorve a umidade, mantendo a umidade afastada, Tecido macio e leve com gola V confortável e ajuste mais ajustado, proporciona uma silhueta elegante e mais feminina e conforto adicional.",
+      "title": {
+        "pt": "Camiseta Opna Feminina de Manga Curta com Controle de Umidade",
+        "en": "Opna Women's Short Sleeve Moisture-Wicking T-Shirt."
+      },
+      "price": {
+        "pt": 34.99,
+        "en": 7.99
+      },
+      "description": {
+        "pt": "100% Poliéster, Lavagem à máquina, 100% poliéster entrelaçado catiônico, Lavagem à máquina e pré-encolhido para um ótimo ajuste, Tecido leve, espaçoso e altamente respirável com tecido que absorve a umidade, mantendo a umidade afastada, Tecido macio e leve com gola V confortável e ajuste mais ajustado, proporciona uma silhueta elegante e mais feminina e conforto adicional.",
+        "en": "100% Polyester, Machine Wash, 100% cationic polyester, Machine wash and pre-shrunk for a great fit, Lightweight, spacious, and highly breathable fabric with moisture-wicking properties to keep moisture away, Soft and lightweight fabric with a comfortable V-neck and a more tailored fit, providing a sleeker, more feminine silhouette and added comfort."
+      },
       "category": "women's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-19.png",
       "width": 679,
@@ -268,9 +439,18 @@
     },
     {
       "id": 20,
-      "title": "Camiseta DANVOUY Feminina Casual de Algodão de Manga Curta",
-      "price": 64.99,
-      "description": "95% Algodão, 5% Elastano, Características: Casual, Manga Curta, Estampa de Letras, Decote em V, Camisetas Fashion, O tecido é macio e possui um pouco de elasticidade. Ocasião: Casual/Escritório/Praia/Escola/Casa/Rua. Estação: Primavera, Verão, Outono, Inverno.",
+      "title": {
+        "pt": "Camiseta DANVOUY Feminina Casual de Algodão de Manga Curta",
+        "en": "DANVOUY Women's Casual Short Sleeve Cotton T-shirt."
+      },
+      "price": {
+        "pt": 64.99,
+        "en": 13.99
+      },
+      "description": {
+        "pt": "95% Algodão, 5% Elastano, Características: Casual, Manga Curta, Estampa de Letras, Decote em V, Camisetas Fashion, O tecido é macio e possui um pouco de elasticidade. Ocasião: Casual/Escritório/Praia/Escola/Casa/Rua. Estação: Primavera, Verão, Outono, Inverno.",
+        "en": "95% Cotton, 5% Elastane, Features: Casual, Short Sleeve, Letter Print, V-neck, Fashion T-shirts, The fabric is soft and has a bit of elasticity. Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring, Summer, Autumn, Winter."
+      },
       "category": "women's clothing",
       "image": "https://json-server-rose-one.vercel.app/img/products/product-20.png",
       "width": 679,
